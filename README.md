@@ -1,1 +1,1 @@
-# radforest
+# Radiance Format Forest
